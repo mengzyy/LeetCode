@@ -1,6 +1,16 @@
 package com.mzy.leetcode;
 
+ class ListNode {
+    int val;
+    ListNode next;
+
+    ListNode(int x) {
+        val = x;
+    }
+}
+
 public class lt24 {
+
 
 
     public static ListNode swapPairs(ListNode head) {
