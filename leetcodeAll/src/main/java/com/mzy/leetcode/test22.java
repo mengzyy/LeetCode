@@ -46,7 +46,7 @@ public class test22 {
         float a = 2;
         long x = 4;
         byte aa = 2;
-        float k = 1.1;
+//        float k = 1.1;
 
         Integer t = 1;//Integer.valueOf(1);
         int t2 = 1;

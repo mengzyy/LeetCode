@@ -58,7 +58,7 @@ public class lt15 {
     }
 
     public static void main(String[] args) {
-        System.out.println(threeSum(new int[]{0,0,0}));
+        System.out.println(threeSum(new int[]{-1,-1,2}));
 
     }
 }
