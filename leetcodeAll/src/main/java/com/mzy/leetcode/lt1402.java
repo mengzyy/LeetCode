@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @program: LeetCode
  * @author: mengzy 18306299232@163.com
- * @create: 2020-04-06 13:01
+ * @create: 2020-04-06 13:
  **/
 public class lt1402 {
     public int maxSatisfaction(int[] satisfaction) {
