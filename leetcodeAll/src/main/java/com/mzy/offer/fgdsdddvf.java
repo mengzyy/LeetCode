@@ -7,7 +7,7 @@ package com.mzy.offer;
  **/
 
 /*
-1.运用java的短路独特性来做
+1.运用java的短路独特性
  */
 public class fgdsdddvf {
 
@@ -15,6 +15,12 @@ public class fgdsdddvf {
         int sum = n;
         boolean b = n > 0 && ((sum += Sum_Solution(--n)) > 0);
         return sum;
+
+    }
+
+    public static void main(String[] args) {
+
+
 
     }
 
