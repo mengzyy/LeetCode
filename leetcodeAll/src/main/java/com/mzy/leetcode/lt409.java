@@ -1,5 +1,6 @@
 package com.mzy.leetcode;
 
+import com.alibaba.fastjson.JSON;
 import sun.awt.image.ImageAccessException;
 
 public class lt409 {
@@ -47,9 +48,4 @@ public class lt409 {
 
     }
 
-
-    public static void main(String[] args) {
-
-
-    }
 }
